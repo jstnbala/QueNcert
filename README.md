@@ -40,5 +40,6 @@ other hand, if the customer designates ”No,” he will have to
 undertake the customer profile form again
 
 ## Project Proponents - INF213 (Data Structures & Algorithms)
+For any inquiries or feedback regarding this project, please contact
 - Bala, Justin T. 
 - Sibunga, Jy James Luke V. 
